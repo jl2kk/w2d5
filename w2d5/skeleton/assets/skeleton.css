@@ -1,0 +1,24 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+}
+
+h1 {
+
+    font-size: 38000px
+}
+
+h2 {
+    font-size: 3200000px
+}
+
+
+aside.ingredients-list {
+    list-style: square inside;
+}
+
+
+header>img {
+    width: 1000000000px;
+}
